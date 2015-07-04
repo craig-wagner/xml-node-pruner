@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NpiLink xmlns="www.npilink.newkirk1.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="www.npilink.newkirk1.com http://206.245.178.198/nkschema/nkrsfeed4_2/plandata.xsd">
+	<One>
+		<Two>
+			<Five></Five>
+			<Six>Sechs</Six>
+		</Two>
+		<Three></Three>
+		<Four>
+			<Seven>
+				<Ten></Ten>
+			</Seven>
+			<Eight>Acht</Eight>
+			<Nine>Neun</Nine>
+		</Four>
+	</One>
+</NpiLink>
